@@ -1,5 +1,5 @@
 # Fourier-Neural-Operator-with-Tensorflow
-Imitating the Zongyi Li's FNO on image classifcation which he used it through Pytorch.
+Implementing Zongyi Li's FNO on image classifcation which he used it through Pytorch.
 
 The work doing in here is to transform Pytorch into Tensorflow.
 
