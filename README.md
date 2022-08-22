@@ -6,7 +6,9 @@ The work doing in here is to transform Pytorch into Tensorflow.
 Later we will show not only Image Classification case, but using pure Data-driven method to fit in the Navier Stokes Theorem and Burger's Equation.
 
 
-The table shows different Neural Network's achivement in MNIST classification.
+
+The table shows different Neural Network's evaluation in MNIST classification.
+
 |  Model                                   | Train Accuracy | Train Loss | Test Accuracy | Test Loss |
 |------------------------------------------|----------------|------------|---------------|-----------|
 | Fully connected network - After 5 Epochs |         0.8923 |     0.2935 |        0.8731 |    0.2432 |
