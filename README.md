@@ -8,7 +8,7 @@ Later we will show not only Image Classification case, but using pure Data-drive
 
 ---
 The table shows different model's evaluation in MNIST classification. Though FNO has highest accuracy, it takes the longest time to compute.
-(Your answers might different from this.)
+(Your results may be slighty different.)
 
 |  Model                                   | Train Accuracy | Train Loss | Test Accuracy | Test Loss |
 |------------------------------------------|----------------|------------|---------------|-----------|
