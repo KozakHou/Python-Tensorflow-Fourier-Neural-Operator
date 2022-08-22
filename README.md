@@ -7,7 +7,7 @@ Later we will show not only Image Classification case, but using pure Data-drive
 
 
 
-The table shows different Neural Network's evaluation in MNIST classification.
+The table shows different model's evaluation in MNIST classification.
 
 |  Model                                   | Train Accuracy | Train Loss | Test Accuracy | Test Loss |
 |------------------------------------------|----------------|------------|---------------|-----------|
