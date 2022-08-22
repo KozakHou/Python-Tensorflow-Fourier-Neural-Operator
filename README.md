@@ -16,7 +16,7 @@ The table shows different model's evaluation in MNIST classification. Though FNO
 | Residual network - After 5 Epochs        |         0.9064 |     0.2610 |        0.8713 |    0.3398 |
 | Fourier Neural Operator - After 5 Epochs |         0.9486 |     0.1622 |        0.9455 |    0.1806 |
 
-
+---
 **Citation**
 ```
 @KozakHou, email:kozak20010716@g.ncu.edu.tw
