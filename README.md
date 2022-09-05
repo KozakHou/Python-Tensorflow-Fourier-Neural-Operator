@@ -24,3 +24,5 @@ The table shows different model's evaluation in MNIST classification. Though FNO
            Tel : +886-905804898
            Affiliation : Department of Space Science and Engineering, National Central University 
 ```
+
+![alt text for screen readers](https://github.com/KozakHou/Python-Tensorflow-Fourier-Neural-Operator/blob/main/FNO_Model_CF.png "Text to show on mouseover")
