@@ -17,9 +17,13 @@ The table shows different model's evaluation in MNIST classification. Though FNO
 | Residual network - After 5 Epochs        |         0.9064 |     0.2610 |        0.8713 |    0.3398 |
 | Fourier Neural Operator - After 5 Epochs |         0.9486 |     0.1622 |        0.9455 |    0.1806 |
 
-Model Flow
+
+Zhogyi Li's FNO Model
+![alt text for screen readers](https://github.com/KozakHou/Python-Tensorflow-Fourier-Neural-Operator/blob/main/ZY_FNO.png "Text to show on mouseover")
 
 
+---
+self-construct Model Flow
 ![alt text for screen readers](https://github.com/KozakHou/Python-Tensorflow-Fourier-Neural-Operator/blob/main/FNO_Model_CF.png "Text to show on mouseover")
 
 
