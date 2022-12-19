@@ -30,9 +30,12 @@ self-construct Model Flow
 ---
 **Citation**
 ```
-@KozakHou, email:kozak20010716@g.ncu.edu.tw
+@code{Fourier Neural Operator with Tensorflow, 
+           author = "Kozak Hou"
+           email = "kozak20010716@g.ncu.edu.tw"
            Tel : +886-905804898
-           Affiliation : Department of Space Science and Engineering, National Central University 
+           Affiliation = "Department of Space Science and Engineering, National Central University"
+     }      
 ```
 
 
